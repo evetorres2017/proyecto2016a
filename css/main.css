@@ -1,0 +1,45 @@
+a, .azul{
+    color: #009fff;
+}
+img{
+    max-width: 100%;
+}
+.quitar-float{
+    float: none;
+}
+.espacio-abajo{
+    margin-bottom: 1em;
+}
+.espacio-arriba{
+    margin-top: 1em;
+}
+.font-google{
+    font-family: 'Indie Flower', cursive;
+}
+.grande{
+    font-size: 4em;
+}
+.verde{
+    color: #00887c;
+}
+.espacio-derecha{
+    margin-right: 1em;
+}
+.inline-block{
+    float: none;
+    display: inline-block;
+    margin-right: -4px;
+}
+.mediano{
+    font-size: 1.5em;
+}
+.retraso-1{
+    -webkit-animation-delay: 1s;
+    -moz-animation-delay: 1s;
+    animation-delay: 1s;
+}
+.retraso-2{
+    -webkit-animation-delay: 2s;
+    -moz-animation-delay: 2s;
+    animation-delay: 2s;
+}
